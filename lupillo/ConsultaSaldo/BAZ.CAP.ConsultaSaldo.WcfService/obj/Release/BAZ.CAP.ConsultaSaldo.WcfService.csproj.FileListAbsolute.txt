@@ -1,0 +1,12 @@
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.WcfService\bin\BAZ.CAP.ConsultaSaldo.WcfService.dll.config
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.WcfService\bin\BAZ.CAP.ConsultaSaldo.WcfService.dll
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.WcfService\bin\BAZ.CAP.ConsultaSaldo.WcfService.pdb
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.WcfService\bin\BAZ.CAP.ConsultaSaldo.BL.dll
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.WcfService\bin\BAZ.CAP.ConsultaSaldo.ML.dll
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.WcfService\bin\BAZ.CAP.ConsultaSaldo.DAL.dll
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.WcfService\bin\BAZ.CAP.ConsultaSaldo.BL.pdb
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.WcfService\bin\BAZ.CAP.ConsultaSaldo.ML.pdb
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.WcfService\bin\BAZ.CAP.ConsultaSaldo.DAL.pdb
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.WcfService\obj\Release\BAZ.CAP.ConsultaSaldo.WcfService.csprojResolveAssemblyReference.cache
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.WcfService\obj\Release\BAZ.CAP.ConsultaSaldo.WcfService.dll
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.WcfService\obj\Release\BAZ.CAP.ConsultaSaldo.WcfService.pdb

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="BAZ.CAP.ConsultaSaldo.WcfService.Implementacion.ConSaldoService"  CodeBehind="ConSaldoService.svc.cs" %>

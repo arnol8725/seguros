@@ -1,0 +1,10 @@
+E:\Users\dcolorado\Desktop\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.ML\bin\Debug\BAZ.CAP.ConsultaSaldo.ML.dll
+E:\Users\dcolorado\Desktop\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.ML\bin\Debug\BAZ.CAP.ConsultaSaldo.ML.pdb
+E:\Users\dcolorado\Desktop\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.ML\obj\Debug\BAZ.CAP.ConsultaSaldo.ML.csprojResolveAssemblyReference.cache
+E:\Users\dcolorado\Desktop\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.ML\obj\Debug\BAZ.CAP.ConsultaSaldo.ML.dll
+E:\Users\dcolorado\Desktop\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.ML\obj\Debug\BAZ.CAP.ConsultaSaldo.ML.pdb
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.ML\bin\Debug\BAZ.CAP.ConsultaSaldo.ML.dll
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.ML\bin\Debug\BAZ.CAP.ConsultaSaldo.ML.pdb
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.ML\obj\Debug\BAZ.CAP.ConsultaSaldo.ML.dll
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.ML\obj\Debug\BAZ.CAP.ConsultaSaldo.ML.pdb
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.ML\obj\Debug\BAZ.CAP.ConsultaSaldo.ML.csprojResolveAssemblyReference.cache

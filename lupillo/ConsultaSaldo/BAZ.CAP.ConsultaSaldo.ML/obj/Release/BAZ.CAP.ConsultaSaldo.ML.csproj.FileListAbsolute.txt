@@ -1,0 +1,4 @@
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.ML\bin\Release\BAZ.CAP.ConsultaSaldo.ML.dll
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.ML\bin\Release\BAZ.CAP.ConsultaSaldo.ML.pdb
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.ML\obj\Release\BAZ.CAP.ConsultaSaldo.ML.dll
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.ML\obj\Release\BAZ.CAP.ConsultaSaldo.ML.pdb

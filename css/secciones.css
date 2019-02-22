@@ -1,0 +1,203 @@
+.m15{ margin-top: -15px;}
+.w66 {width: 68%;margin: 15px 0% 15px 1%;max-height: 450px;}
+.w30 {width: 30%;     margin: 15px 1% 15px 0px;}
+.p1{ padding: 0px 0px 0px 1%;}
+.contSecc {width: 94%;margin-top: 20px;margin: auto;}
+
+span.txtG {color: #006340;text-shadow: 1px 2px 1px #fff;}
+img.imgHome {position: absolute;width: 80%;bottom: 30px;right: 30px;max-width: 900px;}
+
+.titSec {
+    border-bottom: 2px solid #006341;
+    padding: 15px 0% 5px 0px;
+    font-family: 'Avenir_Next_Demi_Bold';
+    font-size: 15px;
+    text-align: left;
+    width: 100%;
+    margin: auto;
+    color: #000;
+}
+.tit {
+    color: #333333;
+    font-family: 'AvenirNextLTPro-Medium';
+    width: 100%;
+    margin: auto;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.titCol {
+    color: #333333;
+    font-family: 'AvenirNextLTPro-Medium';
+    width: 100%;
+    margin: auto;
+    font-size: 15px;
+   padding-left: 1%;   
+}
+.gris {
+    width: 100%;
+    margin: 0px auto;
+    padding: 15px 15px;
+    background-color: #faf9f9;
+    -moz-box-shadow: 0 0px 1px rgb(226, 222, 222);
+    -webkit-box-shadow: 0 0px 1px rgb(226, 222, 222);
+    box-shadow: 0 0px 1px rgb(226, 222, 222);    margin-bottom: 15px;    text-align: justify;
+}
+.btnCenter {display: flex;justify-content: center; flex-wrap: wrap;   margin: 15px 0px 10px 0px;}
+.btnCenter a {    margin: 0px 1% 10px 0px;}
+
+.btnDer {display: flex;justify-content: flex-end;flex-wrap: wrap;}
+.btnDer a {margin: 0px 0% 10px 2%;}
+.btnDer a:first-child {margin: 0px 0% 10px 0%;}
+
+.btnIzq {display: flex;justify-content:flex-start;flex-wrap: wrap;}
+.btnIzq a {margin: 0px 2% 10px 0%;}
+.btnIzq a:last-child {margin: 0px 0% 10px 0%;}
+
+.btnSpace{display: flex;justify-content: space-between;flex-wrap: wrap;}
+.btnSpace a {margin: 0px 0% 10px 0%;}
+
+.btnAround{display: flex;justify-content: space-around;flex-wrap: wrap;}
+.btnAround a {margin: 0px 0% 10px 0%;}
+
+.botones {display: flex;flex-wrap: wrap; margin: 18px 0px 0px 0px;}
+.botones a {    margin: 0px 1% 10px 0px;}
+.btnA {
+    background-color: #006341;
+    text-align: center;
+    display: flex;
+    text-decoration: none;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 5px 15px 5px 15px;
+    min-width: 120px;
+    max-width: 200px;
+    font-family: 'AvenirNextLTPro-Medium';
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+}
+.btnG {
+    background-color: #54585a;
+    color: #fff;
+    font-family: 'Avenir_Next_Regular';
+}
+.btnB {
+    background-color: #fafafa;
+    -moz-box-shadow: 0px 0px 11px rgb(204, 202, 202);
+    -webkit-box-shadow: 0px 0px 11px rgb(204, 202, 202);
+    box-shadow: 1px 1px 3px rgb(204, 202, 202);color: #2d2926;
+}
+.btn {
+    background-color: #006341;
+    text-decoration: none;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 5px 15px 5px 15px;
+    min-width: 120px;
+	max-width: 200px;
+    font-family: 'AvenirNextLTPro-Medium';
+    display: flex;
+    justify-content: center;
+    align-items: center;height: 30px;
+}
+
+.tblGeneral {
+    width: 100%;
+    padding: 10px 0%;
+    margin: 0px auto;
+}
+.tblGeneral tr th {
+    padding: 5px 10px 6px 10px;
+    color: #333333;
+    text-align: center;
+    font-weight: 100;
+    border-bottom: 2px solid #006341;
+	font-size: 14px;font-family: 'AvenirNextLTPro-Medium';min-width: 87px;
+}
+.tblGeneral tr td {
+    padding: 7px 10px 7px 10px;
+    color: #606664;
+    font-size: 13px;
+    text-align: center;
+    border-bottom: 3px solid #ffffff;    border-right: 2px solid #fff;
+}
+.tblGeneral tr:nth-child(odd) td {background-color: #f2f2f2;}
+.tblGeneral tr:nth-child(even) td {background-color: #ffffff;}
+.tblGeneral tr:hover td {    background-color: #e6efe6;}
+.tblGeneral tr td a{color: #5fac98;
+    text-decoration: underline;
+    font-family: 'AvenirNextLTPro-Medium';}
+.tblGeneral tr td img{width: 15px;    cursor: pointer;}
+.cantidad {
+    width: 120px;
+    margin: auto;
+    text-align: right;    color: #000;
+}
+tr.total  td{font-family: 'Avenir_Next_Demi_Bold';}
+.divRadio {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-items: stretch;
+    margin: 0px 1%;
+}
+.divRadio div {
+    width: 25%;min-width: 160px;
+}
+.divCol2Input {    display: flex;
+    flex-wrap: wrap;
+    align-items: center; }
+.divCol2Input div{width: 50%;min-width: 160px;}
+.CheckOrden div { width: 50%; min-width: 148px;}
+.divRadio input[type=radio] + label {padding: 6px 30px 5px 22px;}
+
+/
+
+/*Checkbox*/
+.tblCheck tr th:nth-child(1), .tblCheck tr td:nth-child(1){ width: 50px !important;}
+/
+
+
+@keyframes rightFadeInOut {
+  0% {right: 100%;}
+  100% {right: 0%;}
+}
+.barra .bgAma, .barra .bgAma1, .barra .bgAma2, .barra .bgma3{
+  position: absolute;
+  opacity: 1	;
+  animation-name: rightFadeInOut;
+  animation-delay: 0s;
+  animation-duration: 5s;
+  color: #ccc;
+	overflow: hidden;
+}
+@media screen and (max-width: 1024px) { 
+img.imgHome {width: 72%;bottom: 20px;}
+}
+@media screen and (max-width: 1000px) { 
+.divRadio div {width: 33%;}
+span.txtG { color: #51d42c;text-shadow: 1px 2px 1px #1f337c;}
+.titHome {top: 5%;}
+.titHome1 {font-size: 3em;}
+.titHome2 {font-size: 1.5em;}
+}
+@media screen and (max-width: 900px) { 
+	.col3btn{    flex-grow: 1;text-align: -webkit-center; }
+	.col3btn .w120{margin-top: 0px;}
+}
+@media screen and (max-width: 900px) { 
+img.imgHome {width: 65%;}
+}
+@media screen and (max-width: 700px) { 
+	.col2btn{    flex-grow: 1;text-align: -webkit-center; }
+	.col2btn .w120{margin-top: 0px;}
+	.botones{justify-content: center;}
+	.divRadio div {width: 50%;}
+	 
+}
+@media screen and (max-width: 500px) {
+.divCol3 > .col3 input[type=checkbox] + label, .divCol3 > .col3 input[type=radio] + label {width: 100%;}	
+	.divRadio div {width: 100%;}
+	.divCol2Input div{width: 100%;}
+}

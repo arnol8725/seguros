@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=edge" />
+  <title>Portal de Operaciones de Captación</title>
+  <link rel="stylesheet" type="text/css" href="css/estilos.css">
+</head>
+
+<body>
+
+  <div class="pageHome">
+    <div class="header">
+      <div class="headerMenu">
+        <a href="#" id="hamburger"><img src="img/btn_hamburguer.svg" alt="Menú principal" class="imgHamburgesa"></a>
+      </div>
+      <div class="headerLogo">
+        <a href="index.html"><img src="img/logo.svg" id="imgLogo"></a>
+      </div>
+      <div class="headerUser">
+        <div class="name"><strong>Coyolxauhqui</strong> Ramírez Romero<br> Ejecutivo encargado</div>
+        <div class="pic" style="background-image: url('img/user.jpg');"></div>
+        <div class="user-menu">
+          <a href="#"><img src="img/btn_desp_menu.svg" class="imgShowMenuUser"></a>
+        </div>
+        <div class="fecha">
+			<b>19/Feb/2019</b><br>
+			<span>10:30Hrs.</span>
+		</div>
+      </div>
+
+    </div>
+    <div class="MenuUser">
+      <div class="MenuUser1">
+        <a href="login.html" class="selMenu">
+          <div>Salir</div>
+          <div><img src="img/ico5.svg" class="imgConfig"></div>
+        </a>
+      </div>
+    </div>
+    <div class="clear"></div>
+
+    <div class="titulo">
+    	<div class="ruta">
+			<a href="index.html">Portal de Operaciones de Captación</a> /
+			<a href="consulta-saldo.html">Consulta de Saldo</a> 
+		</div>
+    	Consulta de Saldo
+    </div>
+
+	<!-- Menu -->
+    <div id="effect" class="ui-widget-content ui-corner-all">
+      <div id="menuPrincipal">
+        <div class="header-usuario">
+          <div id="foto"><img src="img/logo1.svg" class="imgLogo"></div>
+          <div id="inf-usuario">
+            <span>Portal</span><br>
+            Menú Principal<br>
+          </div>
+        </div>
+        <div id="buscador">
+          <form id="miForm" name="miForm" action="" method="get" onsubmit="return valida(this)">
+            <div class="w87"><input type="text" id="busca">
+              <input type="submit" class="buscar" value=""></div>
+          </form>
+        </div>
+        <div id="menu">
+          <ul class="l-navegacion nivel1">
+				<li><a href="#"><div>Aperturas</div></a></li>
+				<li>
+					<a><div>Consultas</div><div class="flecha"></div></a>
+					<ul class="nivel2">
+						<li><a href="consulta-saldo.html"><div>10 Consulta de Saldo</div></a></li>
+						<li><a href="#"><div>11 Consulta de movimientos</div></a></li>
+						<li><a href="#"><div>105 Consulta de CDP + Vigentes</div></a></li>
+						<li><a href="#"><div>353 Consulta Arqueo de CDP +</div></a></li>
+						<li><a href="#"><div>531 Recepción de CDP</div></a></li>
+					</ul>
+				</li>
+				<li><a href="#"><div>Autorizaciones</div></a></li>
+				<li><a href="#"><div>Impresiones</div></a></li>
+				<li><a href="#"><div>Servicios</div></a></li>
+				<li><a href="#"><div>Administración</div></a></li>
+				<li><a href="#"><div>Beneficiarios</div></a></li>
+			</ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Contenido -->
+    <div class="contSecc">
+    	<div class="titSec">Búsqueda del cliente</div>
+		<div class="gris">
+			<div class="titCol">Capture el número de cuenta del cliente y presione ENTER</div>
+			<div class="divCol4">
+				<div class="col4">
+					Criterios de búsqueda:<br>
+					<select id="selCriterios">
+					  	<option value="0">Seleccione una opción</option>
+						  <option value="1">Nombre</option>
+						  <option value="2">Numero de tarjeta</option>
+						  <option value="3">Número de cuenta</option>
+						  <option value="4">Cliente único</option>
+					</select>  
+				</div>
+				<div class="col4 divName">Primer apellido:<br><input type="text" id="txtApellidoP"><br><input type="checkbox" name="grupo1" id="check1"/><label for="check1">Sin primer apellido</label></div>
+				<div class="col4 divName">Segundo apellido:<br><input type="text" id="txtApellidoM"><br><input type="checkbox" name="grupo2" id="check2"/><label for="check2">Sin segundo apellido</label></div>
+				<div class="col4 divName">Nombre(s):<br><input type="text" id="txtNombre"><br>&nbsp;</div>
+				<div class="col4 divTarjeta">Teclee el número de tarjeta:<br><input type="text" id="txtTarjeta"></div>
+				<div class="col4 divCuenta">Teclee el número de cuenta:<br><input type="text" id="txtCuenta"></div>
+				
+				<div class="col5 divClienteU">Pais:<br><input type="text" id="txtPais"></div>
+				<div class="col5 divClienteU">Canal:<br><input type="text" id="txtCanal"></div>
+				<div class="col5 divClienteU">Sucursal:<br><input type="text" id="txtSucursal"></div>
+				<div class="col5 divClienteU">Cons:<br><input type="text" id="txtCons"><br>&nbsp;</div>
+								
+			</div>
+			<div class="btnCenter"><a href="#" class="btn btnBuscar desac">Buscar</a></div>
+		</div>
+		<div class="divBuscar">
+			<div class="titSec">Resultado de la búsqueda</div>
+			<div class="gris">
+				<div class="scroll">
+					<table class="tblGeneral tblSaldo">
+						<thead>
+							<tr>
+							  <th>Cliente Único</th>
+							  <th>Cuenta</th>
+							  <th>Tipo de Cuenta</th>
+							  <th>Apellido Paterno</th>
+							  <th>Apellido Materno</th>
+							  <th>Nombre</th>
+							  <th>Fecha Nacimiento</th>
+							  <th>T*</th>
+							</tr>
+						</thead>
+						
+						<tbody id="tbListadoBody">							
+							
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>	<!-- Fin conSecc -->
+	
+	<!-- Footer -->
+	<div class="footer"></div>
+</div><!-- Fin page -->
+
+</body>
+</html>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue-resource/1.5.1/vue-resource.min.js"></script>
+
+<script type="text/javascript" src="js/jquery.dropkick.js"></script><!--Select -->
+<script type="text/javascript" src="js/content_height.js"></script>
+<script type="text/javascript" src="js/jquery-ui.js"></script>
+<script type="text/javascript" src="js/funciones.js"></script>
+

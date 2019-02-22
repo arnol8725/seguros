@@ -1,0 +1,9 @@
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.BL\bin\Release\BAZ.CAP.ConsultaSaldo.BL.dll
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.BL\bin\Release\BAZ.CAP.ConsultaSaldo.BL.pdb
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.BL\bin\Release\BAZ.CAP.ConsultaSaldo.DAL.dll
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.BL\bin\Release\BAZ.CAP.ConsultaSaldo.ML.dll
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.BL\bin\Release\BAZ.CAP.ConsultaSaldo.DAL.pdb
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.BL\bin\Release\BAZ.CAP.ConsultaSaldo.ML.pdb
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.BL\obj\Release\BAZ.CAP.ConsultaSaldo.BL.csprojResolveAssemblyReference.cache
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.BL\obj\Release\BAZ.CAP.ConsultaSaldo.BL.dll
+E:\MigracionLam\Captacion\Net\ConsultaSaldo\BAZ.CAP.ConsultaSaldo.BL\obj\Release\BAZ.CAP.ConsultaSaldo.BL.pdb
